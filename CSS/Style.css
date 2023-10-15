@@ -1,0 +1,65 @@
+
+    .h1 {
+         background-color: lightgoldenrodyellow;
+         color: transparent;
+         -webkit-background-clip: text;
+         background-clip: text; 
+         text-align: center;
+         font-size: larger;
+         font-weight: bold;
+        }
+
+        .personal {
+                    height:auto;
+                    width: auto;
+                    border: 4px outset rgb(78, 27, 189);
+                    float: right;
+        }
+
+        .professional {
+                       height:auto;
+                       width: auto;
+                       border: 4px outset rgb(12, 207, 48);
+                       float: left;
+         }
+
+         body .center {
+                       text-align: center;
+                       font-family: Verdana, Geneva, Tahoma, sans-serif;
+                       font-size: larger;
+         }
+
+         body hr.first{
+                       height: 15px;
+                       background: green, violet, black, blue, orange, yellow;
+
+         }
+        
+         body hr.second{
+            height: 15px;
+            background: green, violet, black, blue, orange, yellow;
+        }
+
+        .mine{
+              float: inline-start;
+              border: 2px olive;
+              border-collapse: collapse;
+        }
+
+        table, th, td {
+                       border: 2px lightgreen;
+                       border-collapse: collapse;                      
+        }
+
+        th, td {
+            padding: 20px;
+        }
+
+        p {
+            background-color:"linear-gradient(to right, rgb(71, 33, 225), yellow, rgb(221, 61, 181)); font-size: xx-large;";
+            font-size: larger;
+            font-style: italic,bold;
+            color:rgb(0, 0, 0);
+        }
+
+        
